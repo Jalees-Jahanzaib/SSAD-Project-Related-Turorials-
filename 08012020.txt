@@ -1,0 +1,12 @@
+1. Assignment 1 (Python Based Game {Terminal Based})
+[Jet pack Joy Ride]
+object orinted programming
+classes and objects for descriptive code
+# Inheritence;
+# Polymorphism;
+# Encapsulation;
+# Abstraction;
+
+class=>
+
+

@@ -8,5 +8,16 @@ classes and objects for descriptive code
 # Abstraction;
 
 class=>
-
-
+Inheritence:
+Animal class={eat, sleep,walk};
+Inheritence can be used for such purpose for genral Animal and specific species can inherit;
+{ parent and children }
+Has differnt types
+Encapsulation:
+all functions are at one place;
+all code is present at one place;
+Abstraction:
+eg : ATM mahine
+Reasons: {No need to know, Security}
+{Public, Private , Protected}
+private variables cant be accessed by children;

@@ -35,6 +35,9 @@ def main(stdscr):
             stdscr.addstr(0,0,"You Pressed {}".format(menu[current_row]))
             stdscr.refresh()
             stdscr.getch()
+            if current_row==len(menu)-1:
+                break;
+
         print_menu(stdscr,current_row)    
         stdscr.refresh()
        

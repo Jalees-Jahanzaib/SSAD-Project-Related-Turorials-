@@ -21,3 +21,5 @@ eg : ATM mahine
 Reasons: {No need to know, Security}
 {Public, Private , Protected}
 private variables cant be accessed by children;
+Polymorphism
+Animal->Dogs->Cats 

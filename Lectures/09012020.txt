@@ -14,4 +14,20 @@ Requirements are dynamically added.
 Prototype done easily.
 Human Resoure is properly uitilized.
 Easy Testing.
-Coninous Intergration//saves time to rectify;
+Coninous Intergration//saves time to rectify
+
+
+Agile is based in opposition to 4 core Principles:
+4 Principles:
+1.individual & team Interaction over procees & tools
+2.Working Software over documentation
+3.Customer Collaberation
+4.Responding to changed.
+
+
+
+SCRUM:
+1.Product Owner. // Idea
+2.Scrum Master.// Team Lead\aranging meets\dev team\-dev\-testers
+3.Stakeholders
+4.Dev Team

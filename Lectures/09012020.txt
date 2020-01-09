@@ -31,3 +31,17 @@ SCRUM:
 2.Scrum Master.// Team Lead\aranging meets\dev team\-dev\-testers
 3.Stakeholders
 4.Dev Team
+
+
+
+Further Reading="https://www.scrum.org/resources/what-is-scrum
+Artifacts=?
+Cerimony?
+User Stories?
+
+
+Cerimonies:
+1.Product Backlog Refinement;
+2.Sprint Planning:
+3.Daily Backlogs:
+4.Sprint Review:

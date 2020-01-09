@@ -45,3 +45,12 @@ Cerimonies:
 2.Sprint Planning:
 3.Daily Backlogs:
 4.Sprint Review:
+
+
+
+
+ Xtreme Programing:
+ Product Requirement -> User Stories -> Test Cases -> Task ->completion->story Metric->
+
+
+ https://www.agilealliance.org/glossary/xp/

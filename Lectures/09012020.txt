@@ -7,4 +7,11 @@ Mohit :
 
 
 Agile:
-Set of Principles // Not a Method // Used in opposition to waterfall model
+Set of Principles // Not a Method // Used in opposition to waterfall model// Design Principle
+Waterfall Model:
+Why Agile?
+Requirements are dynamically added.
+Prototype done easily.
+Human Resoure is properly uitilized.
+Easy Testing.
+Coninous Intergration//saves time to rectify;

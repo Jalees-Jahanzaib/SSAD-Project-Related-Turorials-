@@ -34,7 +34,7 @@ SCRUM:
 
 
 
-Further Reading="https://www.scrum.org/resources/what-is-scrum
+Further Reading="https://www.scrum.org/resources/what-is-scrum"
 Artifacts=?
 Cerimony?
 User Stories?
